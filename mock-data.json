@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "matches": [ "Hello", "hi"],
+      "response": "Welcome to StationFive"
+    },
+    {
+      "matches": ["Goodbye", "bye"],
+      "response": "Thank you, see you around"
+    },
+    {
+      "response": "Sorry, I don't understand"
+    }
+  ]
+}
